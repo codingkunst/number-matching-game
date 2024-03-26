@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+#result-area {
+    text-align: center;
+}
+
+#chance-area {
+    text-align: center;
+}
+
+#user-input {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border: 0;
+    border-radius: 15px;
+    outline: none;
+    background-color: gainsboro;
+}
+
+#play-btn {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#play-btn:hover {
+    cursor: pointer;
+}
+
+#reset-btn {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#reset-btn:hover {
+    cursor: pointer;
+}
